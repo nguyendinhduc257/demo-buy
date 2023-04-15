@@ -33,6 +33,7 @@ class Product(models.Model):
         except:
             url = ''
         return url
+# gggg
 
 
 class Order(models.Model):
